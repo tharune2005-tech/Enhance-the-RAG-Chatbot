@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1280 >>
+stream
+BT
+/F1 14 Tf
+/F1 14 Tf
+1 0 0 1 54 740 Tm (UnsaidTalks Intern Handbook 2026) Tj
+/F1 11 Tf
+1 0 0 1 54 722 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 707 Tm (This handbook is a sample document used to test runtime PDF ingestion in the RAG chatbot. It) Tj
+/F1 11 Tf
+1 0 0 1 54 692 Tm (is not an official UnsaidTalks policy.) Tj
+/F1 11 Tf
+1 0 0 1 54 677 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 662 Tm (Intern stipend: INR 15000 per month, paid on the last working day.) Tj
+/F1 11 Tf
+1 0 0 1 54 647 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 632 Tm (Office hours: 10:00 to 18:00 IST, Monday to Friday. Remote interns overlap 11:00 to 16:00) Tj
+/F1 11 Tf
+1 0 0 1 54 617 Tm (IST.) Tj
+/F1 11 Tf
+1 0 0 1 54 602 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 587 Tm (Referral code for intern office hours is UT-INTERN-2026.) Tj
+/F1 11 Tf
+1 0 0 1 54 572 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 557 Tm (Leave: 1.5 days of casual leave per month. Unused leave does not carry forward.) Tj
+/F1 11 Tf
+1 0 0 1 54 542 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 527 Tm (Laptop policy: interns use a personal machine. UnsaidTalks does not ship hardware for remote) Tj
+/F1 11 Tf
+1 0 0 1 54 512 Tm (internships.) Tj
+/F1 11 Tf
+1 0 0 1 54 497 Tm () Tj
+/F1 11 Tf
+1 0 0 1 54 482 Tm (Weekly sync: Fridays at 16:30 IST with the intern manager.) Tj
+/F1 11 Tf
+1 0 0 1 54 467 Tm () Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000001572 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1642
+%%EOF
